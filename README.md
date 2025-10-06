@@ -82,14 +82,14 @@ URLs are highlighted and clickable.
 ## Log Viewer Controls
 
 At the top of the screen (only in debug mode by default), you’ll see two buttons:
-- 🖥 **Full Log Page** → Expands the logger to a full-screen view
-- 🪟 **Toggle Small Log** Reader → Opens a floating overlay window
+- **Full Log Page** → Expands the logger to a full-screen view
+- **Toggle Small Log** Reader → Opens a floating overlay window
 
 You can view, scroll, and interact with your logs live.
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 | Parameter | Type | Default | Description |
 |:------------:|:-------------:|:-------------:|:-------------:|
 | isEnabled | bool | kDebugMode | Wheather to enable the log overlay |
