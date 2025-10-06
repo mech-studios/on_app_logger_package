@@ -1,6 +1,6 @@
 name: on_app_logger_package
 description: "A logger on the app"
-version: 0.0.1
+version: 1.0.0
 homepage:
 
 environment:
