@@ -60,7 +60,7 @@ class MyApp extends StatelessWidget {
 
 ---
 
-## 🧾 Logging Messages
+## Logging Messages
 
 You can log messages from **anywhere in your app** using:
 
