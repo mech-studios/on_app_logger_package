@@ -1,4 +1,4 @@
-part of 'on_app_logger_package.dart';
+part of 'on_app_logger.dart';
 
 class _LogReader extends StatefulWidget {
   const _LogReader();
